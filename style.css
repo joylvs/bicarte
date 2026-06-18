@@ -3,7 +3,17 @@
     padding: 0;
     list-style: none;
     text-decoration: none;
-    color: black;
+    color: #000;
+}
 
+header {
+    background-color: #111111;
+    padding: 0px 215px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 
+    a{
+        color: #fff;
+    }
 }
